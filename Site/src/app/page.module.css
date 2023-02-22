@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.Inactive {
+    background: #CCC;
+    color: white;
+  }
+  
+  .Active {
+    background: #ff0000;
+    color: white;
+  }
+  
